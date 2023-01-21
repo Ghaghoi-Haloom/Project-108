@@ -1,0 +1,35 @@
+#header {
+    background-color: gray;
+
+}
+#main {
+    background-color: rgb(195, 197, 199);
+    height: 500px;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#header p{
+    background-color: gray;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#main button {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
